@@ -65,7 +65,7 @@ function FormSubmit(event) {
     } else {
       console.log("Login successful!");
       // Redirect to the main page 
-      window.location.href = "index.html";
+      window.location.href = "main page.html";
     }
   });
 }
